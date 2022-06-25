@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Qing Zheng</title>
-    <link>/categories/</link>
+    <link>https://zhengqmark.github.io/categories/</link>
     <description>Recent content in Categories on Qing Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://zhengqmark.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
